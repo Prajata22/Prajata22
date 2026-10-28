@@ -23,7 +23,6 @@ Not demos. Things the team actually runs every week.
 - The new-developer onboarding kit regenerates from the live code: ER diagrams checked against the models, ports, env names, versions. It is never stale on someone's first day.
 - Before anyone touches an API shape or a database column, an agent traces the blast radius across all the repos and lists every consumer.
 - In the product: puja and event copy drafted and translated into five languages, and support chat on WhatsApp and social, on a model-agnostic service. A human approves every word a customer sees.
-- Vendor payout reconciliation went from a spreadsheet afternoon to one command.
 
 The rule is simple. AI drafts, people decide, and everything it touches shows up in a diff.
 
