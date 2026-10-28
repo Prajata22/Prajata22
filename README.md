@@ -10,7 +10,7 @@ I like systems that keep working at 3 am, and tooling that gives the team an aft
 ## What's on my desk
 
 - **Booking and payments** that survive three gateways, retries, refunds, and the occasional webhook that arrives twice.
-- **Ops tooling** for a team that talks to customers on WhatsApp all day: call trackers, lead routing, payout reconciliation, schedule dashboards.
+- **Ops tooling** for a team that talks to customers on WhatsApp all day: call trackers, lead routing, schedule dashboards.
 - **A video pipeline** that turns raw temple footage into a finished puja video without anyone sitting at a timeline.
 - **An agent for every department.** More on that below.
 
