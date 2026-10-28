@@ -11,14 +11,16 @@ I build and run the engineering behind Utsav, a puja and spiritual-services book
 - **Naxatra.ai** — horoscope and panchang engine on Swiss Ephemeris, with LLM-generated daily readings.
 - **AI in operations** — multilingual content generation and support-chat tooling built on Anthropic, Gemini and OpenAI models.
 
-## Open source
+## Packages on npm
 
-| Package | What it does |
-|---|---|
-| [image-stories](https://github.com/Prajata22/image-stories) · [npm](https://www.npmjs.com/package/image-stories) | Instagram-style stories component for React |
-| [i18n-next-export](https://github.com/Prajata22/i18n-next-export) · [npm](https://www.npmjs.com/package/i18n-next-export) | Client-side i18n for Next.js static exports |
+Two packages I maintain, both derived from existing MIT-licensed projects and adapted for my own needs:
 
-Before Utsav I shipped Android apps in Java and Kotlin; those repositories (2019–2023) are still here.
+| Package | What it does | Derived from |
+|---|---|---|
+| [image-stories](https://github.com/Prajata22/image-stories) · [npm](https://www.npmjs.com/package/image-stories) | Instagram-style stories component for React | [react-insta-stories](https://github.com/mohitk05/react-insta-stories) |
+| [i18n-next-export](https://github.com/Prajata22/i18n-next-export) · [npm](https://www.npmjs.com/package/i18n-next-export) | Client-side i18n for Next.js static exports | [next-export-i18n](https://github.com/martinkr/next-export-i18n) |
+
+Before Utsav I built Android apps in Java and Kotlin; those repositories (2019–2023) are still here, with the ones based on other projects marked as such.
 
 ## Elsewhere
 
